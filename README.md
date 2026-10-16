@@ -33,5 +33,8 @@ Hours spent per week shows almost no correlation with completion, suggesting cou
 ✅ Recommended Solution
 Redesign courses into shorter, modular lessons with adaptive difficulty checkpoints to directly target the top two dropout drivers. Since platform and hours spent showed little impact on completion, focus improvement efforts on course structure and pacing rather than platform choice.
 
+Screenshot
+https://github.com/srinivasadasaru13-code/Course_enrolment_and_completion/tree/main
+
 👤 Author
 D Srinivas
